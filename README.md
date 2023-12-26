@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @ajay8111
-- 👀 I’m interested in Programming
-- 🌱 I’m currently learning Web devlopment
+- 👋 Hi, I’m Ajay
+- 👀 I’m interested in creating something
+- 🌱 I’m learning including web devlopment and other stuffs
 - 💞️ I’m looking to collaborate on designing
 
 
