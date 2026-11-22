@@ -42,7 +42,6 @@ const ajay = {
 
 </td>
 <td width="40%" align="center">
-  <img src="https://raw.githubusercontent.com/DenverCoder1/readme-typing-svg/master/images/cat.gif" width="0" height="0" />
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" alt="Coding GIF" />
 </td>
 </tr>
@@ -89,7 +88,6 @@ const ajay = {
 
 </div>
 
-<!-- Optional: compact animated icon row -->
 <div align="center">
   <img src="https://skillicons.dev/icons?i=c,cpp,dart,flutter,java,js,html,css,python,php,django,mysql,sqlite,git,github,vscode&perline=8" alt="Skill icons" />
 </div>
@@ -109,10 +107,22 @@ const ajay = {
 
 ---
 
-## 🏆 Trophies
+## 🏆 Achievements
 
+<!-- Always-working live badges (pulled straight from the GitHub API) -->
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ajay8111&theme=tokyonight&no-frame=true&no-bg=true&margin-w=12&column=7" alt="Trophies" />
+  <img src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/ajay8111&query=$.public_repos&label=Public%20Repos&style=for-the-badge&logo=github&color=00F7FF&labelColor=0d1117" alt="Public repos" />
+  <img src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/ajay8111&query=$.followers&label=Followers&style=for-the-badge&logo=github&color=8B5CF6&labelColor=0d1117" alt="Followers" />
+  <img src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/ajay8111&query=$.following&label=Following&style=for-the-badge&logo=github&color=FF6B6B&labelColor=0d1117" alt="Following" />
+</div>
+
+<br/>
+
+<!-- Trophy card (public service - can be slow or rate-limited at times) -->
+<div align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=ajay8111&theme=tokyonight&row=1&column=7&margin-w=15&margin-h=15&no-frame=true&no-bg=true" alt="GitHub trophies" />
+  </a>
 </div>
 
 ---
@@ -127,11 +137,12 @@ const ajay = {
 
 ## 🐍 Contribution Snake
 
+<!-- Needs the snake.yml workflow to run once so the "output" branch exists -->
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ajay8111/ajay8111/output/github-contribution-grid-snake-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ajay8111/ajay8111/output/github-contribution-grid-snake.svg" />
-    <img alt="Contribution snake animation" src="https://raw.githubusercontent.com/ajay8111/ajay8111/output/github-contribution-grid-snake.svg" />
+    <img alt="Contribution snake animation" src="https://raw.githubusercontent.com/ajay8111/ajay8111/output/github-contribution-grid-snake-dark.svg" />
   </picture>
 </div>
 
@@ -149,7 +160,7 @@ const ajay = {
 
 </div>
 
-<!-- Optional: pinned-style repo cards (replace REPO_NAME) -->
+<!-- Optional: pinned-style repo card (replace REPO_NAME with a real repo) -->
 <div align="center">
   <a href="https://github.com/ajay8111/REPO_NAME">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=ajay8111&repo=REPO_NAME&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Pinned repo" />
