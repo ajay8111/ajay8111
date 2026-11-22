@@ -174,9 +174,9 @@ const ajay = {
 
 | Project | Description | Tech |
 |:-------:|:------------|:----:|
-| 🔹 **[Project One](https://github.com/ajay8111/your-repo)** | Short description of what it does | `Flutter` `Dart` |
-| 🔹 **[Project Two](https://github.com/ajay8111/your-repo)** | Short description of what it does | `Java` `MySQL` |
-| 🔹 **[Project Three](https://github.com/ajay8111/your-repo)** | Short description of what it does | `Python` `Django` |
+| 🔹 **[Project One]([https://github.com/ajay8111/your-repo](https://github.com/ajay8111/reminder_app.git))** | Short description of what it does | `Flutter` `Dart` |
+| 🔹 **[Project Two]([https://github.com/ajay8111/your-repo](https://github.com/ajay8111/QR_code_genrator_website.git))** | Short description of what it does | `Java` `MySQL` |
+| 🔹 **[Project Three]([https://github.com/ajay8111/your-repo](https://github.com/ajay8111/Glow_website.git))** | Short description of what it does | `Python` `Django` |
 
 </div>
 
