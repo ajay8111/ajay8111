@@ -1,5 +1,5 @@
-<!-- ===================== HEADER BANNER ===================== -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20,24&height=230&section=header&text=Hi%2C%20I'm%20Ajay%20Sunil&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Developer%20%E2%80%A2%20Problem%20Solver%20%E2%80%A2%20Lifelong%20Learner&descSize=18&descAlignY=58" />
+<!-- ===================== HEADER BANNER (animated) ===================== -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20,24&height=240&section=header&text=Hi%2C%20I'm%20Ajay%20%F0%9F%91%8B&fontSize=58&fontColor=ffffff&animation=twinkling&fontAlignY=36&desc=Developer%20%E2%80%A2%20Problem%20Solver%20%E2%80%A2%20Lifelong%20Learner&descSize=18&descAlignY=58" />
 
 <!-- ===================== TYPING ANIMATION ===================== -->
 <div align="center">
@@ -20,9 +20,12 @@
   </a>
 </div>
 
----
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20,24&height=3" />
 
-## 👨‍💻 About Me
+<!-- ===================== ABOUT ME ===================== -->
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=2500&pause=800&color=FF6B6B&center=true&vCenter=true&width=500&height=45&lines=%F0%9F%92%BB+About+Me;Who+am+I%3F+%F0%9F%A4%94" alt="About Me" />
+</div>
 
 <table>
 <tr>
@@ -30,7 +33,7 @@
 
 ```js
 const ajay = {
-  name: "Ajay Sunil",
+  name: "Ajay",
   role: "Software Developer",
   location: "Kerala, India 🇮🇳",
   currentlyLearning: ["System Design", "Cloud", "AI/ML"],
@@ -52,9 +55,12 @@ const ajay = {
 - 💬 Ask me about **Java, Flutter, Python, Django, JavaScript, SQL**
 - ⚡ I love clean code, good UI and solving real-world problems
 
----
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20,24&height=3" />
 
-## 🛠️ Tech Stack
+<!-- ===================== TECH STACK ===================== -->
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=2500&pause=800&color=8B5CF6&center=true&vCenter=true&width=500&height=45&lines=%F0%9F%9B%A0+Tech+Stack;Languages+%26+Frameworks+%F0%9F%9A%80" alt="Tech Stack" />
+</div>
 
 <div align="center">
 
@@ -92,12 +98,15 @@ const ajay = {
   <img src="https://skillicons.dev/icons?i=c,cpp,dart,flutter,java,js,html,css,python,php,django,mysql,sqlite,git,github,vscode&perline=8" alt="Skill icons" />
 </div>
 
----
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20,24&height=3" />
 
-## 📊 GitHub Stats
+<!-- ===================== GITHUB STATS ===================== -->
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=2500&pause=800&color=00F7FF&center=true&vCenter=true&width=500&height=45&lines=%F0%9F%93%8A+GitHub+Stats;Numbers+never+lie+%F0%9F%93%88" alt="GitHub Stats" />
+</div>
 
 <div align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=ajay8111&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&bg_color=0d1117" alt="GitHub stats" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=ajay8111&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&bg_color=0d1117&custom_title=Ajay's%20GitHub%20Stats" alt="GitHub stats" />
   <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ajay8111&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Top languages" />
 </div>
 
@@ -105,11 +114,14 @@ const ajay = {
   <img src="https://streak-stats.demolab.com/?user=ajay8111&theme=tokyonight&hide_border=true&background=0d1117&ring=00F7FF&fire=FF6B6B&currStreakLabel=00F7FF" alt="GitHub streak" />
 </div>
 
----
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20,24&height=3" />
 
-## 🏆 Achievements
+<!-- ===================== ACHIEVEMENTS ===================== -->
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=2500&pause=800&color=FFD700&center=true&vCenter=true&width=500&height=45&lines=%F0%9F%8F%86+Achievements;Collecting+trophies+%F0%9F%A5%87" alt="Achievements" />
+</div>
 
-<!-- Always-working live badges (pulled straight from the GitHub API) -->
+<!-- Live badges (pulled straight from the GitHub API) -->
 <div align="center">
   <img src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/ajay8111&query=$.public_repos&label=Public%20Repos&style=for-the-badge&logo=github&color=00F7FF&labelColor=0d1117" alt="Public repos" />
   <img src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/ajay8111&query=$.followers&label=Followers&style=for-the-badge&logo=github&color=8B5CF6&labelColor=0d1117" alt="Followers" />
@@ -118,26 +130,31 @@ const ajay = {
 
 <br/>
 
-<!-- Trophy card (public service - can be slow or rate-limited at times) -->
+<!-- Trophy card (self-hosted on Vercel) -->
 <div align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=ajay8111&theme=tokyonight&row=1&column=7&margin-w=15&margin-h=15&no-frame=true&no-bg=true" alt="GitHub trophies" />
+    <img src="https://github-profile-trophy-gold-delta.vercel.app/?username=ajay8111&theme=tokyonight&row=1&column=8&margin-w=15&margin-h=15&no-frame=true&no-bg=true" alt="GitHub trophies" />
   </a>
 </div>
 
----
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20,24&height=3" />
 
-## 📈 Contribution Graph
-
+<!-- ===================== CONTRIBUTION GRAPH ===================== -->
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ajay8111&bg_color=0d1117&color=00F7FF&line=8B5CF6&point=FFFFFF&area=true&area_color=8B5CF6&hide_border=true" alt="Contribution graph" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=2500&pause=800&color=8B5CF6&center=true&vCenter=true&width=500&height=45&lines=%F0%9F%93%88+Contribution+Graph;Keep+the+streak+alive+%F0%9F%94%A5" alt="Contribution Graph" />
 </div>
 
----
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ajay8111&bg_color=0d1117&color=00F7FF&line=8B5CF6&point=FFFFFF&area=true&area_color=8B5CF6&hide_border=true&custom_title=Ajay's%20Contribution%20Graph" alt="Contribution graph" />
+</div>
 
-## 🐍 Contribution Snake
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20,24&height=3" />
 
-<!-- Needs the snake.yml workflow to run once so the "output" branch exists -->
+<!-- ===================== CONTRIBUTION SNAKE ===================== -->
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=2500&pause=800&color=00FF9C&center=true&vCenter=true&width=500&height=45&lines=%F0%9F%90%8D+Contribution+Snake;Snake+is+hungry+for+commits+%F0%9F%8D%8E" alt="Contribution Snake" />
+</div>
+
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ajay8111/ajay8111/output/github-contribution-grid-snake-dark.svg" />
@@ -146,9 +163,12 @@ const ajay = {
   </picture>
 </div>
 
----
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20,24&height=3" />
 
-## 🚀 Featured Projects
+<!-- ===================== FEATURED PROJECTS ===================== -->
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=2500&pause=800&color=FF6B6B&center=true&vCenter=true&width=500&height=45&lines=%F0%9F%9A%80+Featured+Projects;Things+I've+built+%F0%9F%9B%A0" alt="Featured Projects" />
+</div>
 
 <div align="center">
 
@@ -160,24 +180,34 @@ const ajay = {
 
 </div>
 
-<!-- Optional: pinned-style repo card (replace REPO_NAME with a real repo) -->
+<!-- Optional: pinned-style repo card (replace REPO_NAME with a real repo name, or delete this block) -->
 <div align="center">
   <a href="https://github.com/ajay8111/REPO_NAME">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=ajay8111&repo=REPO_NAME&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Pinned repo" />
   </a>
 </div>
 
----
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20,24&height=3" />
 
-## 💡 Daily Dev Quote
+<!-- ===================== QUOTE + JOKE ===================== -->
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=2500&pause=800&color=FFD700&center=true&vCenter=true&width=500&height=45&lines=%F0%9F%92%A1+Daily+Dev+Quote;Fuel+for+the+day+%E2%98%95" alt="Daily Dev Quote" />
+</div>
 
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random dev quote" />
 </div>
 
----
+<div align="center">
+  <img src="https://readme-jokes.vercel.app/api?theme=tokyonight&hideBorder" alt="Random dev joke" />
+</div>
 
-## 🔗 Connect with Me
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20,24&height=3" />
+
+<!-- ===================== CONNECT ===================== -->
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=2500&pause=800&color=00F7FF&center=true&vCenter=true&width=500&height=45&lines=%F0%9F%A4%9D+Connect+with+Me;Let's+build+something+together+%F0%9F%9A%80" alt="Connect with Me" />
+</div>
 
 <div align="center">
 
@@ -187,7 +217,7 @@ const ajay = {
 
 </div>
 
----
+<br/>
 
 <div align="center">
 
@@ -197,4 +227,5 @@ const ajay = {
 
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20,24&height=120&section=footer" />
+<!-- ===================== FOOTER (animated) ===================== -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20,24&height=140&section=footer&animation=twinkling" />
