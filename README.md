@@ -167,23 +167,31 @@ const ajay = {
 
 <!-- ===================== FEATURED PROJECTS ===================== -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=2500&pause=800&color=FF6B6B&center=true&vCenter=true&width=500&height=45&lines=%F0%9F%9A%80+Featured+Projects;Things+I've+built+%F0%9F%9B%A0" alt="Featured Projects" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=2500&pause=800&color=FF6B6B&center=true&vCenter=true&width=500&height=45&lines=%F0%9F%9A%80+Featured+Projects;Things+I+have+built+%F0%9F%9B%A0" alt="Featured Projects" />
 </div>
 
 <div align="center">
 
 | Project | Description | Tech |
 |:-------:|:------------|:----:|
-| 🔹 **[Project One]([https://github.com/ajay8111/your-repo](https://github.com/ajay8111/reminder_app.git))** | Short description of what it does | `Flutter` `Dart` |
-| 🔹 **[Project Two]([https://github.com/ajay8111/your-repo](https://github.com/ajay8111/QR_code_genrator_website.git))** | Short description of what it does | `Java` `MySQL` |
-| 🔹 **[Project Three]([https://github.com/ajay8111/your-repo](https://github.com/ajay8111/Glow_website.git))** | Short description of what it does | `Python` `Django` |
+| 🔹 **[Reminder App](https://github.com/ajay8111/reminder_app)** | A reminder app to create and manage your tasks and never miss a thing | `Flutter` `Dart` |
+| 🔹 **[QR Code Generator](https://github.com/ajay8111/QR_code_genrator_website)** | A website that generates QR codes instantly from any text or link | `HTML` `CSS` `JavaScript` |
+| 🔹 **[Glow Website](https://github.com/ajay8111/Glow_website)** | A modern, glowing and responsive website design | `HTML` `CSS` `JavaScript` |
 
 </div>
 
-<!-- Optional: pinned-style repo card (replace REPO_NAME with a real repo name, or delete this block) -->
+<br/>
+
+<!-- Pinned-style repo cards (one per project) -->
 <div align="center">
-  <a href="https://github.com/ajay8111/REPO_NAME">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ajay8111&repo=REPO_NAME&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Pinned repo" />
+  <a href="https://github.com/ajay8111/reminder_app">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ajay8111&repo=reminder_app&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="reminder_app" />
+  </a>
+  <a href="https://github.com/ajay8111/QR_code_genrator_website">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ajay8111&repo=QR_code_genrator_website&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="QR_code_genrator_website" />
+  </a>
+  <a href="https://github.com/ajay8111/Glow_website">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ajay8111&repo=Glow_website&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Glow_website" />
   </a>
 </div>
 
